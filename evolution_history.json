@@ -1,0 +1,112 @@
+[
+    {
+        "generation": 1,
+        "prompts": [
+            "List the pros and cons of machine learning.",
+            "Give an example of blockchain.",
+            "Explain quantum computing in simple terms.",
+            "Explain data science in simple terms.",
+            "Explain blockchain in simple terms.",
+            "What are the benefits of blockchain?"
+        ]
+    },
+    {
+        "generation": 2,
+        "prompts": [
+            "List the pros and cons of machine learning.",
+            "What are the benefits of blockchain?",
+            "Explain data science in simple terms.",
+            "Give an example of quantum computing.",
+            "How does data science work?",
+            "What are the benefits of machine learning?"
+        ]
+    },
+    {
+        "generation": 3,
+        "prompts": [
+            "What are the benefits of machine learning?",
+            "List the pros and cons of machine learning.",
+            "Explain data science in simple terms.",
+            "List the pros and cons of quantum computing.",
+            "Explain AI ethics in simple terms.",
+            "Explain machine learning in simple terms."
+        ]
+    },
+    {
+        "generation": 4,
+        "prompts": [
+            "Explain AI ethics in simple terms.",
+            "Explain machine learning in simple terms.",
+            "List the pros and cons of machine learning.",
+            "Explain AI ethics in simple terms.",
+            "Give an example of machine learning.",
+            "What are the benefits of quantum computing?"
+        ]
+    },
+    {
+        "generation": 5,
+        "prompts": [
+            "List the pros and cons of machine learning.",
+            "Explain AI ethics in simple terms.",
+            "Explain AI ethics in simple terms.",
+            "List the pros and cons of machine learning.",
+            "Explain quantum computing in simple terms.",
+            "Explain blockchain in simple terms."
+        ]
+    },
+    {
+        "generation": 6,
+        "prompts": [
+            "Explain AI ethics in simple terms.",
+            "List the pros and cons of machine learning.",
+            "Explain AI ethics in simple terms.",
+            "Explain blockchain in simple terms.",
+            "List the pros and cons of data science.",
+            "Explain data science in simple terms."
+        ]
+    },
+    {
+        "generation": 7,
+        "prompts": [
+            "Explain AI ethics in simple terms.",
+            "List the pros and cons of machine learning.",
+            "Explain AI ethics in simple terms.",
+            "What are the benefits of quantum computing?",
+            "List the pros and cons of quantum computing.",
+            "What are the benefits of blockchain?"
+        ]
+    },
+    {
+        "generation": 8,
+        "prompts": [
+            "Explain AI ethics in simple terms.",
+            "List the pros and cons of machine learning.",
+            "Explain AI ethics in simple terms.",
+            "How does machine learning work?",
+            "List the pros and cons of data science.",
+            "Explain AI ethics in simple terms."
+        ]
+    },
+    {
+        "generation": 9,
+        "prompts": [
+            "List the pros and cons of machine learning.",
+            "Explain AI ethics in simple terms.",
+            "Explain AI ethics in simple terms.",
+            "Explain machine learning in simple terms.",
+            "Give an example of quantum computing.",
+            "What are the benefits of AI ethics?"
+        ]
+    },
+    {
+        "generation": 10,
+        "prompts": [
+            "Explain AI ethics in simple terms.",
+            "Explain AI ethics in simple terms.",
+            "What are the benefits of AI ethics?",
+            "How does blockchain work?",
+            "What are the benefits of data science?",
+            "Explain blockchain in simple terms."
+        ]
+    }
+]
